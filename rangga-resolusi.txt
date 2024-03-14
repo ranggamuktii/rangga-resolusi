@@ -1,0 +1,4 @@
+Rangga Resolusi 2024
+- Belajar Javascript
+- Belajar React
+- Belajar Laravel dan PHP
